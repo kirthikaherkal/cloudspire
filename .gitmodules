@@ -1,0 +1,3 @@
+[submodule "frontennd"]
+	path = frontennd
+	url = https://github.com/omkarputti/predict-health-ease.git
